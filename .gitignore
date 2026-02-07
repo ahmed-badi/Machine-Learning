@@ -1,0 +1,43 @@
+# macOS
+
+.DS_Store
+
+# Editor / IDE
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (si tu utilises ML notebooks/scripts)
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Logs
+
+*.log
+
+# Temporary files
+
+tmp/
+temp/
+
+# LaTeX (si tes articles viennent de LaTeX)
+
+*.aux
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+
